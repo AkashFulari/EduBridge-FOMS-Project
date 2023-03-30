@@ -1,23 +1,29 @@
 # EduBridge-FOMS-Project
 
-echo "# EduBridge-FOMS-Project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AkashFulari/EduBridge-FOMS-Project.git
-git push -u origin main
+echo "# EduBridge-FOMS-Project" >> README.md <br/>
+git init <br/>
+git add README.md <br/>
+git commit -m "first commit" <br/>
+git branch -M main <br/>
+git remote add origin https://github.com/AkashFulari/EduBridge-FOMS-Project.git <br/>
+git push -u origin main <br/>
+
+<br/>
 
 # Requrements 
-Project Title : Online Food Delivery Management System
-Technologies used : Spring Boot
-Java Version : 11.0.8
-SQL Version : 5.6.23
-Node Version : v12.20.2
-Angular CLI Version : 8.0.3
-npm version : 6.14.11
+Project Title : Online Food Delivery Management System <br/>
+Technologies used : Spring Boot <br/>
+Java Version : 11.0.8 <br/>
+SQL Version : 5.6.23 <br/>
+Node Version : v12.20.2 <br/>
+Angular CLI Version : 8.0.3 <br/>
+npm version : 6.14.11 <br/>
 
-BackEnd Port No : http://localhost:8080/
-FrontEnd Port No : http://localhost:4200
+<br/>
 
-Github link for backend(database) && FrontEnd file : https://github.com/akashfulari/EduBridge-FOMS-Project
+BackEnd Port No : http://localhost:8080/ <br/>
+FrontEnd Port No : http://localhost:4200 <br/>
+
+<br/>
+ 
+Github link for backend(database) && FrontEnd file : https://github.com/akashfulari/EduBridge-FOMS-Project <br/>
