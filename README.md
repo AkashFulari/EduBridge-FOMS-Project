@@ -10,7 +10,7 @@ git push -u origin main <br/>
 
 <br/>
 
-# Requrements 
+# Requirements 
 Project Title : Online Food Delivery Management System <br/>
 Technologies used : Spring Boot <br/>
 Java Version : 11.0.8 <br/>
